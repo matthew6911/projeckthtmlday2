@@ -1,0 +1,150 @@
+.header {
+    color: rgb(22, 0, 221);
+  }
+  
+  .header h2 {
+    font-size: 40px;
+  }
+  
+  .header h3 {
+    font-size: 30px;
+  }
+  .block h2 {
+	color: red;
+}
+.block p {
+	color: green;
+}
+.eee i {
+    color: red;
+}
+.block .header {
+	font-family: Arial;
+}
+.block h2.header {
+	font-size: 30px;
+	color: red;
+}
+.block h3.header {
+	font-size: 20px;
+	color: green;
+}
+.block .header {
+	font-family: Arial;
+}
+.block h2.header {
+	font-size: 30px;
+	color: red;
+}
+.block h3.header {
+	font-size: 20px;
+	color: red(233, 0, 0);
+}
+.eee .bbb {
+    color: red;
+  }
+  .eee h2 {
+	color: red;
+}
+.eee h2.bbb {
+	color: red;
+}
+.eee h3.bbb {
+    color: red;
+  }
+  .eee p.bbb {
+    color: red;
+  }
+  .eee .bbb .kkk {
+    color: red;
+  }
+  p.bbb {
+	color: red;
+}
+p .bbb {
+	color: red;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+	font-family: Arial;
+}
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+.fancy {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+  }
+
+  .bordered {
+    border: 2px;
+    padding: 10px;
+  }
+
+  .centered {
+    text-align: center;
+  }
+  #block1 {
+	color: red;
+}
+#block2 {
+	color: green;
+}
+#elem1 {
+    color: red;
+}
+#elem2 {
+    color: green;
+}
+#elem3 {
+    color: blue;
+}
+#block {
+	color: red;
+	font-family: Arial;
+}
+.large {
+	font-size: 30px;
+}
+#block {
+    color: rgb(173, 174, 230);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text {
+   color: blue;
+    font-size: 30px;
+}
+#elem h2 {
+    color: rgb(55, 0, 255);
+  }
+  #elem .text {
+    color: blue; 
+  }
+  #elem p.text {
+    color: blue;
+  }
+  #elem li.text {
+    color: rgb(245, 188, 0);
+  }
+  .eee.zzz {
+	color: red;
+}
+.eee.zzz.ccc {
+    color: rgb(27, 2, 253);
+}
+.bbb.zzz {
+    color: red;
+  }
